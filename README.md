@@ -1,7 +1,6 @@
 <h1 align="left">Hey 👋 I'm Adwaith</h1>
 
 ###
-
 <p align="left">Front-End Developer from India</p>
 
 ###
