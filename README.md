@@ -1,8 +1,7 @@
 <h1 align="left">Hey 👋 I'm Adwaith</h1>
 
 <p align="left">
-  Front-End Developer from India 🇮🇳 <br>
-  Passionate about building clean, responsive web interfaces and learning backend fundamentals.
+Passionate Full Stack Developer specializing in the MERN stack, dedicated to building scalable, production-ready web applications that solve real-world problems
 </p>
 
 <h2 align="left">Professional Links</h2>
